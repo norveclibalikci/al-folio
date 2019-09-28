@@ -21,4 +21,4 @@ Before I came UNC CS, I worked in [Dcipher Analytics](https://www.dcipheranalyti
 
  [CV](/al-folio/assets/pdf/SahinOlut_CV.pdf).
 
-After those unnecessary details, I'm planning to share my inspirations here.
+After those unnecessary details, I'm planning to share my inspirations in my blog.
