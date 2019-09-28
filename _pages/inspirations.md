@@ -9,6 +9,6 @@ description: Admiration to brilliant minds.
 
 * A. M. Celâl Şengör (Geologist)
 * William Humboldt (Founder of Geography and Reproducible Science)
-* Donald Knuth (One of the founders of Theoratical Computer Science)
+* Donald Knuth (One of the founders of Theoretical Computer Science)
 * Jürgen Schmidhuber (Leading the artificial intelligence field)
 * Yoshua Bengio (Leading representaion theory)
