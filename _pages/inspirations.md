@@ -11,4 +11,4 @@ description: Admiration to brilliant minds.
 * William Humboldt (Founder of Geography and Reproducible Science)
 * Donald Knuth (One of the founders of Theoretical Computer Science)
 * Jürgen Schmidhuber (Leading the artificial intelligence field)
-* Yoshua Bengio (Leading representaion theory)
+* Yoshua Bengio (Leading the representation theory)
