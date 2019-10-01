@@ -7,7 +7,7 @@ description: Admiration to brilliant minds.
 
 
 
-* A. M. Celâl Şengör (Geologist)
+* A. M. Celâl Şengör, mt, hc. (Geologist)
 * William Humboldt (Founder of Geography and Reproducible Science)
 * Donald Knuth (One of the founders of Theoretical Computer Science)
 * Jürgen Schmidhuber (Leading the artificial intelligence field)
