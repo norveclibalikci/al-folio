@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "url:"
  # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-baseurl: 'al-folio'# the base hostname & protocol for your site
+baseurl: '/al-folio'# the base hostname & protocol for your site
 url: 'https://norveclibalikci.github.io' # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
